@@ -18,6 +18,7 @@ class Patterns{
         // RightangledTriangleNumber01();
         // NumberDiamond();
         //LetterM();
+        
 
     }
 
@@ -327,6 +328,10 @@ class Patterns{
         }
         System.out.println();
     }
+
+
+
+    
     
 
 }
